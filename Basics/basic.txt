@@ -1,0 +1,103 @@
+// console.log("hello world");
+
+// alert("hello");
+
+
+// var num =45;
+// console.log(num);
+
+// var age =prompt("enter the age");
+// console.log(age);
+// document.getElementById("he-1").innerHTML=age;
+
+// function hello() {
+//     alert("this is a function");
+// }
+
+// hello();
+
+
+
+// function greeting() {
+//     var name =prompt("ENter your name:");
+//     document.getElementById('name').innerHTML="Hello "+name+"!";
+//     var result = "Hello"+" "+name;
+//     console.log(result);
+// }
+
+// greeting();
+
+
+// function add(a,b) {
+//     var result=a+b;
+//     console.log(result);
+// }
+
+
+// add(1,"hello");
+
+
+// for (var num = 0; num < 100; num++) {
+//     console.log(num);
+// }
+
+// let str = "Dhinesh";
+// console.log(str.length);
+// console.log(str.indexOf('h'));
+// console.log(str.substring(2));
+// console.log(str[3]);
+// console.log(str.split(''));
+
+
+// let name =['dhinesh','praveen','santa'];
+// // alert(name[2]);
+
+// console.log(name);
+
+// name[0]='kumar'
+
+// console.log(name);
+// console.log(name.join('*'));
+// console.log(name.pop(),name); //remove last element where as in shift can be used for removing first element.
+// console.log(name.push('hello'),name);
+
+// //unshift which can be used for add element for first elememt
+
+// //two arrays can be concat by using concat function 1_array.concat(2_array)
+// //reverse can be used to reverse for array
+// //sort() can be used for sorting array 
+
+// let arr=[125,568,345,12,4,56,7,8,12,10]
+
+// console.log(arr.sort(function (a,b) {return a-b;}));
+// console.log(arr.sort(function (a,b) {return b-a;})); 
+
+
+// // If condition 
+// var a =prompt("enetr the value");
+
+// if(a<18){
+//     text='success';
+// }else{
+//     text='failure';
+// }
+// console.log(text);
+
+//Switch
+
+// var num = Number(prompt("Enter the value: "));
+// switch (num) {
+//     case 1:
+//         text='hello';
+//         break;
+//     case 2:
+//         text ='world';
+//         break;
+
+//     default:
+//         text='dhinesh';
+//         break;
+// }
+// console.log(text);
+
+
